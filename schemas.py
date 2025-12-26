@@ -6,7 +6,3 @@ class ModelInput(BaseModel):
     internal_marks: int
     practice_hours: int
 
-
-
-class ModelAccuracy(BaseModel):
-    score: int
